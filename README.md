@@ -32,3 +32,8 @@ Unlike official tools, this script exports the **entire conversation chronologic
 
 ## Privacy & Security
 The script runs entirely locally in your browser. It does not send your chat data to any external servers.
+
+## Tip:
+If you are using a Google Pro subscription or have the chat open in the Chrome side panel, the script might fail or return an "AI answers not found" error.
+This is due to the browser's system protections.
+Solution: Click "Share," copy the link to your chat, and open it in Incognito mode—the script will work perfectly!
